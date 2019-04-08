@@ -7,6 +7,11 @@
 
 ## How to participate
 
+- Selecciona uno de los challenges.
+- Crea tu aplicación que cumpla con los criterios de aceptación del challenge.
+- Sube tu app a GitHub
+- Crea un issue en este repositorio llenando el siguiente formulario -> [form](https://github.com/IntersysConsulting/talent-land-2019-challenges/issues/new)
+
 ## Challenges 
 
 ## Rules
