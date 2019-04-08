@@ -12,7 +12,10 @@
 - Sube tu app a GitHub
 - Crea un issue en este repositorio llenando el siguiente formulario -> [form](https://github.com/IntersysConsulting/talent-land-2019-challenges/issues/new)
 
-## Challenges 
+## Challenges
+
+- [Ayúdame a encontrar mi cel](https://github.com/IntersysConsulting/talent-land-2019-challenges/blob/master/challenges/find-me.md)
+- [Unicorneando las PR](https://github.com/IntersysConsulting/talent-land-2019-challenges/blob/master/challenges/unicorn-pr.md)
 
 ## Rules
 
