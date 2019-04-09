@@ -16,6 +16,7 @@
 
 - [Ayúdame a encontrar mi cel](https://github.com/IntersysConsulting/talent-land-2019-challenges/blob/master/challenges/find-me.md)
 - [Unicorneando las PR](https://github.com/IntersysConsulting/talent-land-2019-challenges/blob/master/challenges/unicorn-pr.md)
+- [Bot Food](https://github.com/IntersysConsulting/talent-land-2019-challenges/blob/master/challenges/bot-food.md)
 
 ## Rules
 
