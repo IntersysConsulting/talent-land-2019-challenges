@@ -1,12 +1,12 @@
-# PandaScore API
+# eSport Analysis & Statistics App
 
 ## Problema
 
-Imginemos el siguiente escenario: somos una empresa dedicada a Big Data, por lo que queremos crear una aplicación para nuestros clientes que quieren tener lo ultimo de información aceca de eSports, el mejor jugador, los torneos y ligas disponibles en el pasado y futuro. De esta manera, nuestros clientes puedan tomar decisiones acerca de que equipos o jugadores en los que les puede convenir invertir.
+Imaginemos el siguiente escenario: somos una empresa dedicada a Big Data, por lo que queremos crear una aplicación para nuestros clientes que quieren tener lo ultimo de información aceca de eSports, el mejor jugador, los torneos y ligas disponibles en el pasado y futuro. De esta manera, nuestros clientes puedan tomar decisiones acerca de que equipos o jugadores en los que les puede convenir invertir.
 
 ## Solución
 
-Crear una aplicación que obtenga datos de cualquier liga, jugador y torneo de algun juego competitivo en el ambiente de los eSports, para que nuestro cliente este informado respecto a la información que este interesado. Para obtener la información recomendamso utilizar la API de Panda Score.
+Crear una aplicación que obtenga datos de cualquier liga, jugador y torneo de algun juego competitivo en el ambiente de los eSports, para que nuestro cliente este informado respecto a la información que este interesado. Para obtener la información recomendamos utilizar la API de Panda Score.
 
 [https://developers.pandascore.co/](https://developers.pandascore.co/)
 
