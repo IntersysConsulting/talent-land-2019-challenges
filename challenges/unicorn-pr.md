@@ -30,4 +30,4 @@ Guidelines sugeridos:
 
 ### Stack de tecnologías sugeridas
 
-Danger JS (o Danger también para swift o ruby), CircleC
+Danger JS (o Danger también para swift o ruby), CircleCI
