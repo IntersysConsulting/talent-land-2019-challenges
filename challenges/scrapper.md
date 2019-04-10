@@ -1,17 +1,22 @@
-# Challenge Template
+# Scrapper
 
 ## Problema
 
 
 ## Solución
 
+Hacer una web scrapper que lea el texto dentro de los tags h2 en  [https://nytime.com](https://nytime.com) y se le pueda consultan por medio de una query GraphQL.
 
 ## Criterios de aceptación
 
-- Criterio 1
+- La implementación debes ser puramente en Scala Functional Programming Style
 
-- Criterio 2
+- No hay un Graphql query schema definido, eres libre de definirlo por tu cuenta.
 
-- Criterio 3
+- El programa debe de poder correr usando monix Task or cats IO.
+
+- La implementación debe ser totalmente con programación funcional.  
 
 ## Recomendaciones
+
+Ejemplo: https://gitlab.com/rafa.avim/nytime-scrapper
