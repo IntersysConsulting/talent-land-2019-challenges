@@ -16,5 +16,6 @@
 - [Ayúdame a encontrar mi cel](challenges/find-me.md)
 - [Unicorneando las PR](challenges/unicorn-pr.md)
 - [Bot Food](challenges/bot-food.md)
+- [eSports Analysis & Statistics App](challenges/esports-app.md)
 
 ## Reglas
