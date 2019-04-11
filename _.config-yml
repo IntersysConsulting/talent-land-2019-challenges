@@ -9,3 +9,5 @@ include:
   - challenges/find-me.md
   - challenges/unicorn-pr.md
   - challenges/scrapper.md
+  - challenges/open-contracts.md
+  - challenges/esports-app.md

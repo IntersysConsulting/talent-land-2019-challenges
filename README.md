@@ -17,5 +17,7 @@
 - [Unicorneando las PR](challenges/unicorn-pr.md)
 - [Bot Food](challenges/bot-food.md)
 - [Scrapper](challenges/scrapper.md)
+- [Contratos Abiertos](challenges/open-contracts.md)
+- [eSports Analysis & Statistics App](challenges/esports-app.md)
 
 ## Reglas

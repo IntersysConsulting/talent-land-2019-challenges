@@ -4,6 +4,8 @@
 - [ ] Unicorneando las PR
 - [ ] Bot Food
 - [ ] Scrapper
+- [ ] Contratos Abiertos
+- [ ] eSports Analysis & Statistics App
 
 ----
 
