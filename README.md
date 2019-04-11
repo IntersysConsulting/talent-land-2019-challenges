@@ -9,7 +9,7 @@
 - Selecciona uno de los retos.
 - Crea tu aplicación que cumpla con los criterios de aceptación del reto.
 - Sube tu app a GitHub
-- Crea un issue en este repositorio llenando el siguiente formulario -> [form](https://github.com/IntersysConsulting/talent-land-2019-challenges/issues/new)
+- Crea un issue en este repositorio llenando este [formulario](https://github.com/IntersysConsulting/talent-land-2019-challenges/issues/new).
 
 ## Retos
 
