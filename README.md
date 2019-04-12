@@ -10,7 +10,7 @@ Una vez realizado, ve con nuestro equipo ubicado en el área de hackathon para o
 
 No dejes ir esta gran oportunidad y ¡enséñanos como lo harías!
 
-## Como participo
+## ¿Cómo participo?
 
 - Selecciona uno de los retos.
 - Crea tu aplicación que cumpla con los criterios de aceptación del reto.
