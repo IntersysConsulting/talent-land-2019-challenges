@@ -4,6 +4,12 @@
 
 # Intersys Talent Land 2019 Challenges
 
+¡Participa utilizando tu creatividad y lógica en alguno de los siguientes retos!
+
+Una vez realizado, ve con nuestro equipo ubicado en el área de hackathon para obtener tu premio. Además si presentas una solución que impresione a nuestros desarrolladores, serás nuestro invitado a vivir una experiencia Intersys en nuestras oficinas de Guadalajara.
+
+No dejes ir esta gran oportunidad y ¡enséñanos como lo harías!
+
 ## Como participo
 
 - Selecciona uno de los retos.
