@@ -17,8 +17,7 @@ No dejes ir esta gran oportunidad y ¡enséñanos como lo harías!
     * Deberás crear un repositorio público en Github y ahí subir tu código.
 1. [Crea un issue en este mismo repositorio](https://github.com/IntersysConsulting/talent-land-2019-challenges/issues/new) llenando el formulario que te aparece al crear el issue.
 
-## Retos
-
+## Lista de Retos
 - [Ayúdame a encontrar mi cel](challenges/find-me.md)
 - [Unicorneando las PR](challenges/unicorn-pr.md)
 - [Bot Food](challenges/bot-food.md)
