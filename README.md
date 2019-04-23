@@ -25,5 +25,3 @@ No dejes ir esta gran oportunidad y ¡enséñanos como lo harías!
 - [Scrapper](challenges/scrapper.md)
 - [Contratos Abiertos](challenges/open-contracts.md)
 - [eSports Analysis & Statistics App](challenges/esports-app.md)
-
-## Reglas
