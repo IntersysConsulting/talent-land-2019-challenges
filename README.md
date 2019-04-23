@@ -12,10 +12,10 @@ No dejes ir esta gran oportunidad y ¡enséñanos como lo harías!
 
 ## ¿Cómo participo?
 
-- Selecciona uno de los retos listados más abajo.
-- Crea tu aplicación que cumpla con los criterios de aceptación del reto. <sup>Instrucciones al seleccionar el reto</sup>
-  - Deberás crear tu repositorio en Github.<sup>El repositorio deberá ser público.</sup>
-- [Crea un issue en este mismo repositorio](https://github.com/IntersysConsulting/talent-land-2019-challenges/issues/new) llenando el formulario que te aparece al crear el issue.
+1. Selecciona uno de los retos listados más abajo.
+1. Crea tu aplicación que cumpla con los criterios de aceptación del reto.
+    * Deberás crear un repositorio público en Github y ahí subir tu código.
+1. [Crea un issue en este mismo repositorio](https://github.com/IntersysConsulting/talent-land-2019-challenges/issues/new) llenando el formulario que te aparece al crear el issue.
 
 ## Retos
 
